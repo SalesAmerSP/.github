@@ -49,10 +49,6 @@ Community tools and automation built by the F5 Service Provider Sales team for t
 
 `f5 · f5networks · big-iq · ssl · ciphers · network-automation-python`
 
-## Location
-
-United States of America
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request in the relevant repository.
